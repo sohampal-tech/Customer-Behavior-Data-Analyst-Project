@@ -81,7 +81,7 @@ Summarizing findings and providing actionable business recommendations.
 
 ## 👨‍💻 Author
 **Soham Pal**  
-Data Analytics & Business Intelligence Enthusiast
+Data Analytics & Business Intelligence Learner | AI & Machine Learning Enthusiast
 
 ---
 
